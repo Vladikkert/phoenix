@@ -1,0 +1,1 @@
+nohup python3 test1_time.py &
